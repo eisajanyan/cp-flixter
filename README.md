@@ -6,8 +6,8 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 ### User Stories
 
 #### REQUIRED (10pts)
-- [ ] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
-- [ ] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
+- [x] (8pts) Expose details of movie (ratings using RatingBar, popularity, and synopsis) in a separate activity.
+- [x] (2pts) Allow video posts to be played in full-screen using the YouTubePlayerView.
 
 #### BONUS
 - [ ] Implement a shared element transition when user clicks into the details of a movie (1 point).
@@ -22,7 +22,7 @@ Flix is an app that allows users to browse movies from the [The Movie Database A
 <img src="unit-2-assignment-demo.gif" width=250><br>
 
 ### Notes
-Describe any challenges encountered while building the app.
+
 
 ## Open-source libraries used
 - [Android Async HTTP](https://github.com/codepath/CPAsyncHttpClient) - Simple asynchronous HTTP requests with JSON parsing
